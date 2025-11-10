@@ -1,0 +1,9 @@
+I found the game to be predictable. the balls eventually followed a predictable pattern.
+
+what i did was add random speed and different hitboxes to each ball. i also included random rotation to ensure different movement patterns each time
+
+i changed the bumpers shape to further add to the bounce randomness along with cubes to add more angles
+
+at timer is also included. itll print the seconds in a console but will display final time at the end
+
+honestly i think the game by design isn't too fun. its meant to be a educational tool more than a finished thing
